@@ -1,2 +1,4 @@
 # mans
 man
+power
+on
